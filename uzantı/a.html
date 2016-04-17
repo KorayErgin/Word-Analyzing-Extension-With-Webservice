@@ -1,0 +1,37 @@
+<html>
+<head>
+<script src="f.js"></script>
+</head>
+<body>
+<input type="text" id="yas" />
+<br />
+<p id="demo">asd</p>
+<button type="button" id="btn1" onclick="CallService() ">Yaþ Göster</button>
+</body>
+</html>
+ 
+<script>
+   function CallService() {
+ var deneme;
+
+           var deneme;
+            
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:18466/WebService1.asmx/get_post",
+                data: "deneme",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                error: OnError
+            });
+ 
+            function OnSuccess(data, status) {
+               return deneme;
+            }
+ 
+            function OnError(request, status, error) {
+          
+            }
+        }
+</script>

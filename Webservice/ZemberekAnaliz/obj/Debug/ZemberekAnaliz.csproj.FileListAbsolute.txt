@@ -1,0 +1,68 @@
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\ApplicationInsights.config
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\csc.exe
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\System.Collections.Immutable.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\vbc.exe
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\VBCSCompiler.exe
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\VBCSCompiler.exe.config
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\ZemberekAnaliz.dll.config
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\ZemberekAnaliz.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\ZemberekAnaliz.pdb
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.Web.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.WindowsServer.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.ApplicationInsights.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\NZemberek.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.Web.xml
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.WindowsServer.xml
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.ApplicationInsights.xml
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\obj\Debug\ZemberekAnaliz.csprojResolveAssemblyReference.cache
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\obj\Debug\ZemberekAnaliz.dll
+c:\users\enes\documents\visual studio 2015\Projects\ZemberekAnaliz\ZemberekAnaliz\obj\Debug\ZemberekAnaliz.pdb
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\ApplicationInsights.config
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\csc.exe
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\ZemberekAnaliz.dll.config
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\ZemberekAnaliz.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\ZemberekAnaliz.pdb
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\NZemberek.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\obj\Debug\ZemberekAnaliz.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\obj\Debug\ZemberekAnaliz.dll
+C:\Users\User\Desktop\ZemberekAnaliz\ZemberekAnaliz\obj\Debug\ZemberekAnaliz.pdb

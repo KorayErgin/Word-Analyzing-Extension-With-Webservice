@@ -1,0 +1,19 @@
+{
+  "name": "Zemberek Analiz",
+  "description": "Zemberek Metin Analizi",
+  "version": "1.0",
+  "permissions": ["contextMenus","tabs", "http://*/*", "https://*/*"],
+  "options_page": "plug.html",
+  "background": {
+    "scripts": ["js/jquery-2.0.3.min.js","background.js","plug.js","zemberek.js"]
+  },
+  "browser_action": {"default_popup" : "zemberek.html"},
+  "content_scripts": [
+        {
+        	"matches": ["http://*/*", "https://*/*"],
+            "js": ["main.js"]
+        }
+  ],
+  "manifest_version": 2
+}
+

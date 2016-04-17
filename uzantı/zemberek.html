@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="zemberek.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<style>
+.button {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 10px;
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 7px;
+  box-shadow: 0 3px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.table {
+  width: 95%;
+  background:gray;
+  border: 1px solid #C5B798;
+  margin-top: 15px;
+  margin-right: -5px;
+  margin-bottom: 25px;
+}
+
+td {
+  border-bottom: 1px solid #CDC1A7;
+  padding: 5px;
+}
+th {
+  font-family: "Trebuchet MS", Arial, Verdana;
+  font-size: 7px;
+  padding: 3px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #CDC1A7;
+  background-color: #CDC1A7;
+  color: #993300;
+}
+</style>
+</head>
+<body>
+
+
+<button type="button" id="do-count" width="1px" height="1px" class="button">Veritabaný Sil</button>
+<p>
+<p>
+<iframe src="http://localhost:6951/ZemberekAnaliz.asmx/top5_frekans" width="110px" id="if1" ></iframe>
+
+
+<script src="zemberek.js"></script>
+
+
+</body>
+</html>
